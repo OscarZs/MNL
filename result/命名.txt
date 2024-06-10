@@ -1,0 +1,4 @@
+G   无UAM 无cost 5次
+G0  无UAM 无cost 15次
+G1  有UAM 无cost 15次
+G1_MNL  有UAM 无cost 15次
